@@ -10,6 +10,7 @@ public class ArrayCopy {
         String[] otherFavourites = java.util.Arrays.copyOfRange(favouritePlayers, 2, 4);
         System.out.println(java.util.Arrays.toString(otherFavourites));
         int[] oddNumbers = {1, 3, 5, 7, 9, 11, 13};
-        java.util.Arrays.stream(favouritePlayers).map(player -> player + " ").forEach(System.out::print);
+        java.util.Arrays.stream(favouritePlayers).map(player -> player + " ").forEach(System.out::println);
+        System.out.println(java.util.Arrays.toString(oddNumbers));
     }
 }
