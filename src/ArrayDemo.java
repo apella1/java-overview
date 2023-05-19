@@ -19,7 +19,17 @@ public class ArrayDemo {
 
         // short-cut syntax for creating and initializing an array.
         int[] numArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        char[] possibleGrades = {'A', 'B', 'C', 'D', 'E'};
+        String[] movies;
+        movies = new String[4];
+        movies[0] = "Family Guy";
+        movies[1] = "American Dad";
+        movies[2] = "Rick and Morty";
+        movies[3] = "Pretty Smart";
 
         System.out.println("Element at index 0: " + primeNumbers[0]);
+        System.out.println(java.util.Arrays.toString(numArray));
+        System.out.println(java.util.Arrays.toString(possibleGrades));
+        System.out.println(java.util.Arrays.toString(movies));
     }
 }
