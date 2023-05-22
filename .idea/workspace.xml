@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f7a3a6-01c4-4805-8731-7b9dc4625175" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComparisonOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionalOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1684503758829" duration="924000" />
       <workItem from="1684566609826" duration="1652000" />
       <workItem from="1684580270950" duration="26000" />
-      <workItem from="1684734420091" duration="2862000" />
+      <workItem from="1684734420091" duration="3498000" />
     </task>
     <servers />
   </component>
