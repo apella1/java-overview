@@ -12,6 +12,7 @@ public class ToyotaCorolla extends Car {
         model2018.noOfCylinders = 6;
         model2018.increaseSpeed(10);
         model2018.changeColor("Red");
+        model2018.increaseHorsePower(788);
         model2018.printStates();
     }
 }
