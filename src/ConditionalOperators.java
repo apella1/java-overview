@@ -16,6 +16,7 @@ public class ConditionalOperators {
         int secondMathsScore = 77;
         boolean hasPassed = true;
         int result;
+        // ternary operator
         result = hasPassed ? mathsScore : secondMathsScore;
         System.out.println(result);
     }
