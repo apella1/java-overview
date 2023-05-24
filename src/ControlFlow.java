@@ -1,9 +1,11 @@
 enum PaymentStatus {
-    UNPAID, PAID, UNKNOWN, PARTPAID, DISPUTED;
+    UNPAID, PAID, UNKNOWN, PARTPAID, DISPUTED
 }
+
 public class ControlFlow {
     // if-then, if-then-else
     // the switch statement
+    // while, do while
     public static void main(String[] args) {
         int month = 6;
         String monthString = switch (month) {
@@ -43,5 +45,34 @@ public class ControlFlow {
             default -> System.out.println("Invalid month");
         }
         System.out.println("Number of days in the current month is " + numOfDays);
+
+        // using strings in switch cases
+        String day = "";
+        day = "Thursday";
+        int dayNumber = 0;
+
+        switch (day.toLowerCase()) {
+            case "monday" -> dayNumber = 1;
+            case "tuesday" -> dayNumber = 2;
+            case "wednesday" -> dayNumber = 3;
+            case "thursday" -> dayNumber = 4;
+            case "friday" -> dayNumber = 5;
+            case "saturday" -> dayNumber = 6;
+            case "sunday" -> dayNumber = 7;
+        }
+        System.out.println("Thursday is day " + dayNumber + " of the week.");
+
+        // while statement
+        int count = 0;
+
+        while (count <= 10) {
+            System.out.println("The count is " + count);
+            count++;
+        }
+        int myCount = 2;
+        do {
+            System.out.println("Count: " + myCount);
+            count++;
+        } while (count < 4);
     }
 }
