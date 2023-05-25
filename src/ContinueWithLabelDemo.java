@@ -20,5 +20,13 @@ public class ContinueWithLabelDemo {
             break;
         }
         System.out.println(foundSub ? "Found it." : "Didn't find it.");
+
+        int aNumber = 3;
+        if (aNumber >= 0) {
+            if (aNumber == 0) {
+                System.out.println("first number");
+            } else System.out.println("second number");
+        }
+        System.out.println("third number");
     }
 }
