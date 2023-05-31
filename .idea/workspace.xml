@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f7a3a6-01c4-4805-8731-7b9dc4625175" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MountainBike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BicycleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BicycleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContinueWithLabelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContinueWithLabelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToyotaCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToyotaCorolla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,9 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wk9nst85" />
+  </component>
   <component name="ProjectId" id="2PuQpccnPSVOCuC87705qm2yBMt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,14 +51,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/reed/Projects/Learning/salary&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/reed/IdeaProjects/overview&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/reed/IdeaProjects/overview/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,14 +83,35 @@
       <workItem from="1684811919660" duration="3580000" />
       <workItem from="1684901163700" duration="5941000" />
       <workItem from="1684952045519" duration="832000" />
-      <workItem from="1684990678693" duration="8021000" />
+      <workItem from="1684990678693" duration="8215000" />
+      <workItem from="1685080002415" duration="1359000" />
+      <workItem from="1685083998471" duration="119000" />
+      <workItem from="1685092747145" duration="149000" />
+      <workItem from="1685101111478" duration="87000" />
+      <workItem from="1685218782436" duration="741000" />
+      <workItem from="1685511789575" duration="1773000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

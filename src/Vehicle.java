@@ -11,12 +11,21 @@ interface VehicleInterface {
 }
 
 public class Vehicle implements VehicleInterface {
-    String type = "";
-    int horsePower = 0;
-    int noOfCylinders = 0;
-    int wheels = 0;
-    int speed = 0;
-    String color = "";
+    String type;
+    int horsePower;
+    int noOfCylinders;
+    int wheels;
+    int speed;
+    String color;
+
+    public Vehicle(String vehicleType, int startPower, int startCylinders, int startWheels, int startSpeed, String startColor) {
+        type = vehicleType;
+        horsePower = startPower;
+        noOfCylinders = startCylinders;
+        wheels = startWheels;
+        speed = startSpeed;
+        color = startColor;
+    }
 
     public void increaseSpeed(int increase) {
         speed = speed + increase;

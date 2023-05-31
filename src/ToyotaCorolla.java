@@ -1,7 +1,11 @@
 public class ToyotaCorolla extends Car {
+    public ToyotaCorolla(String vehicleType, String startColor, int startPower, int startCylinders, int startWheels, int startSpeed, boolean heatedSeats) {
+        super(vehicleType, startColor, startPower, startCylinders, startWheels, startSpeed, heatedSeats);
+    }
+
     public static void main(String[] args) {
         ToyotaCorolla model2018;
-        model2018 = new ToyotaCorolla();
+        model2018 = new ToyotaCorolla("Toyota Corolla", "Blue", 0, 0, 0, 0, true);
 
         model2018.type = "Toyota Corolla";
         model2018.color = "Blue";

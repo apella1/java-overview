@@ -16,6 +16,13 @@ public class ArrayDemo {
         primeNumbers[8] = 23;
         primeNumbers[9] = 29;
 
+        String[] favouriteLanguages;
+        favouriteLanguages = new String[3];
+        favouriteLanguages[0] = "Java";
+        favouriteLanguages[1] = "TypeScript";
+        favouriteLanguages[2] = "Rust";
+
+        System.out.println(java.util.Arrays.toString(favouriteLanguages));
 
         // short-cut syntax for creating and initializing an array.
         int[] numArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
