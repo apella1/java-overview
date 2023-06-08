@@ -11,6 +11,7 @@ public class BicycleDemo {
         roadBike.speedUp(40);
         roadBike.changeGear(3);
         roadBike.applyBrakes(10);
+        roadBike.getId();
         roadBike.printStates();
 
         mountainBike.changeCadence(50);
