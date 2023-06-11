@@ -7,7 +7,7 @@ public class ForStatement {
         int[] numbers = {2, 3, 5, 7, 11, 13};
         // this form is recommended over the first way whenever possible
         for (int num : numbers)
-            System.out.println("Prime numer is " + num);
+            System.out.println("Prime number is " + num);
 
         // unlabelled break statement
         int myNumber = 7;
@@ -34,9 +34,10 @@ public class ForStatement {
 
         int searchNo = 40;
         int a;
-        int b = 0;
+        int b = 0; // why are initializing b only
         boolean numFound = false;
 
+        // labeled loop
         search:
         for (a = 0; a < numArray.length; a++) {
             for (b = 0; b < numArray[a].length; b++) {
