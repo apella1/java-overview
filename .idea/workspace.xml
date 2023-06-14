@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f7a3a6-01c4-4805-8731-7b9dc4625175" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/reed/IdeaProjects/overview/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -93,7 +91,9 @@
       <workItem from="1685793122863" duration="61000" />
       <workItem from="1686116441764" duration="5476000" />
       <workItem from="1686202887321" duration="3004000" />
-      <workItem from="1686491936864" duration="4371000" />
+      <workItem from="1686491936864" duration="5087000" />
+      <workItem from="1686725167050" duration="16000" />
+      <workItem from="1686725193347" duration="2253000" />
     </task>
     <servers />
   </component>
